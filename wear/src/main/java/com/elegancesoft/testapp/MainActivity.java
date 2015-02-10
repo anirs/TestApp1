@@ -20,7 +20,7 @@ public class MainActivity extends Activity {
             public void onLayoutInflated(WatchViewStub stub) {
                 mTextView = (TextView) stub.findViewById(R.id.text);
                 Log.d("TAG","hello2");
-                Log.d("TAG","hello21");
+                Log.d("TAG","hello123");
     }
 });
     }
